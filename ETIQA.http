@@ -1,0 +1,6 @@
+@ETIQA_HostAddress = http://localhost:5120
+
+GET {{ETIQA_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
